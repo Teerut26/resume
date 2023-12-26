@@ -14,38 +14,38 @@
 			"name": "HYPETYPE Metaverse Concert",
 			"details": "Website Metaverse Concert for Bambam GOT7",
             "details_en": "Website Metaverse Concert for Bambam GOT7",
-			"url": "https://teerut.me/projects/HYPETYPE-Metaverse-Concert",
+			"url": "teerut.me/projects/HYPETYPE-Metaverse-Concert",
 			"hide": false
 		},
 		{
 			"name": "KU Clubs",
 			"details": "This is a project to gather all the clubs in Kasetsart University",
             "details_en": "",
-			"url": "https://teerut.me/projects/ku-clubs",
+			"url": "teerut.me/projects/ku-clubs",
 			"hide": false
 		},
 		{
 			"name": "KU Get Reg",
 			"details": "Kasetsart University students to view their own class schedules and create their own class schedules.",
-			"url": "https://teerut.me/projects/ku-getreg",
+			"url": "teerut.me/projects/ku-getreg",
 			"hide": false
 		},
 		{
 			"name": "KU Hackathon",
 			"details": "Website for Kasetsart University Hackathon",
-			"url": "https://teerut.me/projects/ku-hackathon",
+			"url": "teerut.me/projects/ku-hackathon",
 			"hide": false
 		},
 		{
 			"name": "KU Tech",
 			"details": "Website for KU Tech Club",
-			"url": "https://teerut.me/projects/ku-tech",
+			"url": "teerut.me/projects/ku-tech",
 			"hide": false
 		},
 		{
 			"name": "Loykrathong",
 			"details": "This is a project that allows the general public or people in Kasetsart University to float a virtual lantern.",
-			"url": "https://teerut.me/projects/loykrathong",
+			"url": "teerut.me/projects/loykrathong",
 			"hide": false
 		}
 	],
@@ -74,7 +74,7 @@
 			"url": "https://www.inox.co.th",
 			"years": ["Summer 2024"],
 			"details": [
-				"Develop frontend for INOX company."
+				"Frontend Developer at INOX company."
 			]
 		}
 	],
