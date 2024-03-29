@@ -7,45 +7,45 @@
 		"github": "Teerut26",
 		"linkedin": "teerut26",
 		"location": "Bangkok, Thailand",
-		"website": "teerut.me"
+		"website": "teerut.com"
 	},
 	"projects": [
 		{
 			"name": "HYPETYPE Metaverse Concert",
 			"details": "Website Metaverse Concert for Bambam GOT7",
             "details_en": "Website Metaverse Concert for Bambam GOT7",
-			"url": "teerut.me/projects/HYPETYPE-Metaverse-Concert",
+			"url": "teerut.com/projects/HYPETYPE-Metaverse-Concert",
 			"hide": false
 		},
 		{
 			"name": "KU Clubs",
 			"details": "This is a project to gather all the clubs in Kasetsart University",
             "details_en": "",
-			"url": "teerut.me/projects/ku-clubs",
+			"url": "teerut.com/projects/ku-clubs",
 			"hide": false
 		},
 		{
 			"name": "KU Get Reg",
 			"details": "Kasetsart University students to view their own class schedules and create their own class schedules.",
-			"url": "teerut.me/projects/ku-getreg",
+			"url": "teerut.com/projects/ku-getreg",
 			"hide": false
 		},
 		{
 			"name": "KU Hackathon",
 			"details": "Website for Kasetsart University Hackathon",
-			"url": "teerut.me/projects/ku-hackathon",
+			"url": "teerut.com/projects/ku-hackathon",
 			"hide": false
 		},
 		{
 			"name": "KU Tech",
 			"details": "Website for KU Tech Club",
-			"url": "teerut.me/projects/ku-tech",
+			"url": "teerut.com/projects/ku-tech",
 			"hide": false
 		},
 		{
 			"name": "Loykrathong",
 			"details": "This is a project that allows the general public or people in Kasetsart University to float a virtual lantern.",
-			"url": "teerut.me/projects/loykrathong",
+			"url": "teerut.com/projects/loykrathong",
 			"hide": false
 		}
 	],
@@ -90,6 +90,6 @@
     ],
 	"resumeUrl": {
 		"sourceLink": "https://github.com/teerut26/resume",
-		"fullVersion": "https://resume.teerut.me"
+		"fullVersion": "https://resume.teerut.com"
 	}
 }
