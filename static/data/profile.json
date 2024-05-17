@@ -74,7 +74,16 @@
 			"url": "https://www.inox.co.th",
 			"years": ["April 2024", "June 2024"],
 			"details": [
-				"Frontend Developer at INOX company."
+				"Frontend Developer at INOX."
+			]
+		},
+		{
+			"position": "Frontend Developer, Internship",
+			"company": "ByteArk",
+			"url": "https://byteark.com",
+			"years": ["April 2024", "June 2024"],
+			"details": [
+				"Frontend Developer at ByteArk."
 			]
 		}
 	],
