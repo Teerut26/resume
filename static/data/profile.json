@@ -47,6 +47,16 @@
 			"details": "This is a project that allows the general public or people in Kasetsart University to float a virtual lantern.",
 			"url": "teerut.com/projects/loykrathong",
 			"hide": false
+		},
+		{
+			"name": "KUSD",
+			"details": "This system is used to approve project proposals submitted by clubs at Kasetsart University. ",
+			"hide": false
+		},
+		{
+			"name": "KU Milk",
+			"details": "This website is for the sale of dairy products produced by Kasetsart University. ",
+			"hide": false
 		}
 	],
 	"technologies": [
