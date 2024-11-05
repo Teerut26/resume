@@ -80,6 +80,10 @@
 			"details": "ReactJS, NextJS, NuxtJS, Astro, NestJS, SvelteJS, TailwindCSS, Bootstrap, Spring Boot"
 		},
 		{
+			"section": "Cloud:",
+			"details": "Amazon Web Service"
+		},
+		{
 			"section": "Tools:",
 			"details": "Git, Docker"
 		},
