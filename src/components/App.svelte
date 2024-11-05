@@ -105,9 +105,11 @@
 						<li>
 							<strong>{project.name}</strong>
 							- {project.details}
-							<a href="https://{project.url}" target="_blank" rel="noreferrer"
-								><strong>{project.url}</strong></a
-							>
+							{#if project.url}
+								<a href="https://{project.url}" target="_blank" rel="noreferrer">
+									<strong>{project.url}</strong>
+								</a>
+							{/if}
 						</li>
 					</Hideable>
 				{/each}
