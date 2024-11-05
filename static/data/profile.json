@@ -58,6 +58,16 @@
 			"name": "KU Milk",
 			"details": "This website is for the sale of dairy products produced by Kasetsart University. ",
 			"hide": false
+		},
+		{
+			"name": "Buildwise",
+			"details": "Developed an integrated construction project management system featuring automated BOQ generation, quotation processes, and centralized database management. (System Analysis and Design coursework)",
+			"hide": false
+		},
+		{
+			"name": "Badbuddy",
+			"details": "Developed BadBuddy, a web application that facilitates organizing badminton meetups by allowing users to create events, invite participants, and manage badminton court bookings. (Software Design and Development coursework)",
+			"hide": false
 		}
 	],
 	"technologies": [
