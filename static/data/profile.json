@@ -95,20 +95,20 @@
 	"workExperiences": [
 		{
 			"position": "Frontend Developer, Internship",
-			"company": "INOX",
+			"company": "INOX/ByteArk",
 			"url": "https://www.inox.co.th",
 			"years": ["April 2024", "June 2024"],
 			"details": [
-				"Frontend Developer at INOX."
+				"Developed and thoroughly tested a comprehensive video management website, ensuring a seamless user experience and robust functionality."
 			]
 		},
 		{
-			"position": "Frontend Developer, Internship",
-			"company": "ByteArk",
-			"url": "https://byteark.com",
-			"years": ["April 2024", "June 2024"],
+			"position": "Co-Founder",
+			"company": "KU Tech (Kasetsart Club)",
+			"url": "https://tech.nisit.ku.ac.th",
+			"years": ["2023", "Present"],
 			"details": [
-				"Frontend Developer at ByteArk."
+				"Designed and developed multiple websites from concept to deployment, focusing on intuitive UX/UI design to maximize user engagement and functionality."
 			]
 		}
 	],
