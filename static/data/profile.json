@@ -62,11 +62,13 @@
 		{
 			"name": "Buildwise",
 			"details": "Developed an integrated construction project management system featuring automated BOQ generation, quotation processes, and centralized database management. (System Analysis and Design coursework)",
+			"url": "teerut.com/projects/builewise",
 			"hide": false
 		},
 		{
 			"name": "Badbuddy",
 			"details": "Developed BadBuddy, a web application that facilitates organizing badminton meetups by allowing users to create events, invite participants, and manage badminton court bookings. (Software Design and Development coursework)",
+			"url": "teerut.com/projects/badbuddy",
 			"hide": false
 		}
 	],
