@@ -13,14 +13,14 @@
 		{
 			"name": "HYPETYPE Metaverse Concert",
 			"details": "Website Metaverse Concert for Bambam GOT7",
-            "details_en": "Website Metaverse Concert for Bambam GOT7",
+			"details_en": "Website Metaverse Concert for Bambam GOT7",
 			"url": "teerut.com/projects/HYPETYPE-Metaverse-Concert",
 			"hide": false
 		},
 		{
 			"name": "KU Clubs",
 			"details": "This is a project to gather all the clubs in Kasetsart University",
-            "details_en": "",
+			"details_en": "",
 			"url": "teerut.com/projects/ku-clubs",
 			"hide": false
 		},
@@ -98,8 +98,11 @@
 			"company": "INOX/ByteArk",
 			"url": "https://www.inox.co.th",
 			"years": ["April 2024", "June 2024"],
+			"technologies": ["ReactJS", "NextJS", "VueJS", "Jest Testing"],
 			"details": [
-				"Developed and thoroughly tested a comprehensive video management website, ensuring a seamless user experience and robust functionality."
+				"Designed and developed a video management website, Implemented new features and functionalities",
+                "Developed and maintained automated UI tests using Jest",
+                "Collaborated with the team to resolve technical challenges and enhance user interface discussions."
 			]
 		},
 		{
@@ -108,7 +111,19 @@
 			"url": "https://tech.nisit.ku.ac.th",
 			"years": ["2023", "Present"],
 			"details": [
-				"Designed and developed multiple websites from concept to deployment, focusing on intuitive UX/UI design to maximize user engagement and functionality."
+				"Designed and developed a website to address university-wide issues and manage activities during various festivals.",
+                "Created UX/UI designs for the website to ensure an intuitive and user-friendly experience.",
+                "Ensured high-quality software delivery by implementing robust quality control measures before production launches.",
+                "Collaborated with the university's hackathon coordination team to streamline event management and problem-solving processes."
+			]
+		},
+		{
+			"position": "Frontend Developer",
+			"company": "Freelance",
+			"url": null,
+			"years": ["2022", "2023"],
+			"details": [
+				"Provided end-to-end custom website development services based on client requirements"
 			]
 		}
 	],
@@ -118,10 +133,8 @@
 			"details": "Kasetsart University, TH. 2022-2026"
 		}
 	],
-	"interests": [
-		"Games : FPS, MOBA, PVP",
-		"Music : EDM, Synth, Rock, Dance, Electronic, Lofi"
-    ],
+	"languages": ["Thai : Native", "English : Pre-Intermediate (A2)"],
+	"interests": ["Games : FPS, MOBA, PVP", "Music : EDM, Synth, Rock, Dance, Electronic, Lofi"],
 	"resumeUrl": {
 		"sourceLink": "https://github.com/teerut26/resume",
 		"fullVersion": "https://resume.teerut.com"

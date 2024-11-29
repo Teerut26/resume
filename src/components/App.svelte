@@ -16,6 +16,7 @@
 		workExperiences = [],
 		educations = [],
 		interests = [],
+        languages = [],
 		resumeUrl: { sourceLink = '', fullVersionLink = '' } = {}
 	} = profile || {});
 
@@ -32,7 +33,9 @@
 	<Kofi name={intro.github} />
 {/if}
 
-<header class="web-only text-center p-4 sm:p-6 bg-gradient-to-r from-orange-400 to-orange-700 text-white w-screen">
+<header
+	class="web-only text-center p-4 sm:p-6 bg-gradient-to-r from-orange-400 to-orange-700 text-white w-screen"
+>
 	<h1 class="text-4xl">Resumette</h1>
 	<h3>
 		<button on:click={() => window.print()} class="underline text-lg">[Print]</button>
@@ -102,14 +105,37 @@
 			<ul class="text-left list-disc pl-8">
 				{#each projects as project}
 					<Hideable hide={project.hide}>
+						<li class="flex flex-col">
+							<div class="flex gap-3">
+								<strong>{project.name}</strong>
+								{#if project.url}
+									<a href="https://{project.url}" target="_blank" rel="noreferrer" class="text-zinc-500 no-underline">
+										{project.url}
+									</a>
+								{/if}
+							</div>
+							<ul class="text-left list-disc pl-8">
+								<li>
+									{project.details}
+								</li>
+							</ul>
+						</li>
+					</Hideable>
+				{/each}
+			</ul>
+		</Hideable>
+	</section>
+
+    <section>
+		<Hideable>
+			<h2 class="text-2xl print:text-4xl uppercase text-left">Languages</h2>
+			<hr />
+
+			<ul class="text-left list-disc pl-8">
+				{#each languages as language}
+					<Hideable>
 						<li>
-							<strong>{project.name}</strong>
-							- {project.details}
-							{#if project.url}
-								<a href="https://{project.url}" target="_blank" rel="noreferrer">
-									<strong>{project.url}</strong>
-								</a>
-							{/if}
+							{language}
 						</li>
 					</Hideable>
 				{/each}
@@ -118,7 +144,7 @@
 	</section>
 
 	<section>
-		<Hideable>
+		<Hideable hide>
 			<h2 class="text-2xl print:text-4xl uppercase text-left">Interests</h2>
 			<hr />
 
