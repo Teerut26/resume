@@ -75,11 +75,11 @@
 	"technologies": [
 		{
 			"section": "Languages:",
-			"details": "JavaScript, Typescript, Java, Python, C, CPP, Node.js"
+			"details": "JavaScript, Typescript, Java, Python, C, CPP, Node.js, Go"
 		},
 		{
 			"section": "Frameworks:",
-			"details": "ReactJS, NextJS, NuxtJS, Astro, NestJS, SvelteJS, TailwindCSS, Bootstrap, Spring Boot"
+			"details": "ReactJS, NextJS, NuxtJS, Astro, NestJS, SvelteJS, TailwindCSS, Bootstrap, Spring Boot, Go Fiber"
 		},
 		{
 			"section": "Cloud:",
