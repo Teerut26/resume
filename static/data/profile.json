@@ -96,6 +96,14 @@
 	],
 	"workExperiences": [
 		{
+			"position": "Software Engineer, Internship",
+			"company": "KBTG (KASIKORN Business-Technology Group)",
+			"url": "https://www.kbtg.tech",
+			"years": ["June 2025", "October 2025"],
+			"technologies": [],
+			"details": []
+		},
+		{
 			"position": "Frontend Developer, Internship",
 			"company": "INOX/ByteArk",
 			"url": "https://www.inox.co.th",
